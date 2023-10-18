@@ -1,1 +1,1 @@
-* ** Gelecegi-Yazanlar-Yapay-Zeka
+* **Gelecegi-Yazanlar-Yapay-Zeka**
