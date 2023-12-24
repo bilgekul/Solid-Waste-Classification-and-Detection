@@ -1,1 +1,1 @@
-* **Gelecegi-Yazanlar-Yapay-Zeka**
+* **CNN**
